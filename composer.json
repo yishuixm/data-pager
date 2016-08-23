@@ -5,7 +5,6 @@
   "license": "MIT",
   "homepage": "https://github.com/yishuixm/data-pager",
   "keywords": ["lbs"],
-  "minimum-stability": "stable",
   "authors": [
     {
       "name": "yishuixm",
